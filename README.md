@@ -1,5 +1,14 @@
-## Hi there 👋
+<p align="left"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaEaton&layout=compact&theme=tokyonight" height="200" />
+</p>
 
+**👋Hey there, my name is Luca Eaton**
+
+- 🌱 I'm currently studying @ John Jay College for CS
+- 🔭 I'm currently researching and learning how to build an audio stem splitter to further learn more about audio processing within ML
+- ⚡ Fun fact about me is I love to mix music and DJ for large crowds
+- 📫 How to reach me: eatonluca@gmail.com
+- 
 <!--
 **lucaEaton/lucaEaton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
