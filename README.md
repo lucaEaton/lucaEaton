@@ -1,5 +1,4 @@
-My name is Luca Eaton,
-I'm currently researching and learning how to build an audio stem splitter to further learn more about audio processing within ML
+![Terminal GIF](https://raw.githubusercontent.com/lucaEaton/gif-terminal/main/output.gif)
 
 email - eatonluca@gmail.com
   
