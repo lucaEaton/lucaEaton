@@ -1,5 +1,3 @@
-![Terminal GIF](https://raw.githubusercontent.com/lucaEaton/gif-terminal/main/output.gif)
-
 email - eatonluca@gmail.com
   
 <!--
