@@ -2,7 +2,7 @@ Computer Science & Infomation Security @ John Jay College
 
 What I'm Currently Working On:
 
-- A CLI tool that will allow for the automation of tracking applications catered towards techincal roles (swe,seceurity,ai/ml,etc...)
+- A CLI tool that will allow for the automation of tracking applications catered towards techincal roles (swe,security,ai/ml,etc...)
   - repo : https://github.com/lucaEaton/golden-retriever
 
 - An adaptive traffic signal control system in that models city road networks as weighted directed graphs and benchmarking muliple shortest-path algorithms to optimize intersection routing, with plans to incorporate real-time congestion, signal timing, and sensor data to dynamically reroute traffic.
